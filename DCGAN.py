@@ -166,3 +166,5 @@ for epoch in range(Total_Epochs):
     if (epoch+1) % 10 == 0:
         generator.save("generator.h5")
         display_images()
+
+#### Done
